@@ -12,7 +12,7 @@
 
 eureka:
   instance:
-    hostname: secret-journey-47332.herokuapp.com
+    hostname: fraserblogapp.herokuapp.com
     non-secure-port: 80
     prefer-ip-address: false
 
