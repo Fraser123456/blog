@@ -36,7 +36,7 @@
     "enableTranslation": true,
     "nativeLanguage": "en",
     "languages": ["en", "fr"],
-    "herokuAppName": "blog",
+    "herokuAppName": "secret-journey-47332",
     "herokuDeployType": "git"
   }
 }
